@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/sonifi.png");
+  background-image: url("images/Main_banner_higher.jpg");
   background-position: 50% 50%;
 }
 
@@ -436,7 +436,6 @@
   margin-top: 60px;
   margin-bottom: 60px;
   min-height: 530px;
-  height: auto;
   animation-duration: 1000ms;
 }
 
@@ -473,10 +472,6 @@
 @media (max-width: 1199px) {
   .u-section-4 {
     min-height: 528px;
-  }
-
-  .u-section-4 .u-group-1 {
-    height: auto;
   }
 
   .u-section-4 .u-shape-1 {
@@ -848,7 +843,6 @@
   margin-top: 125px;
   margin-bottom: 60px;
   min-height: 670px;
-  height: auto;
   animation-duration: 1000ms;
 }
 
@@ -889,7 +883,6 @@
 
   .u-section-6 .u-group-1 {
     margin-top: 80px;
-    height: auto;
   }
 
   .u-section-6 .u-text-1 {
